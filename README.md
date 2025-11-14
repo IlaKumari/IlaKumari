@@ -6,7 +6,7 @@ I'm a Product Manager with a passion for building impactful digital experiences 
 
 ### 👀 I’m interested in:
 - Product strategy and lifecycle management  
-- Fintech, broking platforms, and B2C tech products  
+- Fintech, broking platforms, and B2B & B2C tech products  
 - Data-driven decision making & user research  
 - Building scalable tech teams and GTM strategy  
 
